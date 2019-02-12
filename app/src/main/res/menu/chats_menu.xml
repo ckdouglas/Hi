@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="New group"
+        android:id="@+id/btn_new_group">
+    </item>
+    <item
+        android:title="New broadcast"
+        android:id="@+id/btn_new_broadcast">
+    </item>
+    <item
+        android:title="Hi Web"
+        android:id="@+id/btn_hi_web">
+    </item>
+    <item
+        android:title="Starred messages"
+        android:id="@+id/btn_starred_messages">
+    </item>
+    <item
+        android:title="Settings"
+        android:id="@+id/btn_settings">
+    </item>
+
+</menu>

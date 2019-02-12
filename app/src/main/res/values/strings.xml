@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Hi</string>
+    <string name="welcome">Welcome to Hi</string>
+    <string name="term_conditions">Tap \"Agree And Continue\" to accept Term of Conditions of Howdy</string>
+    <string name="verification_message">
+        Howdy will send you an SMS message(carrier changes may apply) to verify your phone number.\n
+        Enter your country code and phone number.
+    </string>
+    <string name="title_activity_chats">ChatsActivity</string>
+    <string name="enter_to_number">Please enter the six digit verification code sent to your number.</string>
+
+
+   <string name="sent_tick">\u2713</string>
+    <string name="recieved_tick">\u2713\u2713</string>
+   <string name="star">\u2605</string>
+</resources>
